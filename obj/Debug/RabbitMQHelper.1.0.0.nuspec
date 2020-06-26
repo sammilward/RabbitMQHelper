@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RabbitMQHelper</id>
+    <version>1.0.0</version>
+    <authors>RabbitMQHelper</authors>
+    <owners>RabbitMQHelper</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="RabbitMQ.Client" version="5.1.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.dll" target="lib\netcoreapp2.2\RabbitMQHelper.dll" />
+  </files>
+</package>

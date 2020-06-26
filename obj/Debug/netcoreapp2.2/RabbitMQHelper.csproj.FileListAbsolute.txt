@@ -1,0 +1,16 @@
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.deps.json
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.dll
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.csprojAssemblyReference.cache
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.AssemblyInfoInputs.cache
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.AssemblyInfo.cs
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.pdb
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.dll
+C:\Users\Sam Milward\source\repos\RabbitMQHelper\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.pdb
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.deps.json
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.dll
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\bin\Debug\netcoreapp2.2\RabbitMQHelper.pdb
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.csprojAssemblyReference.cache
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.AssemblyInfoInputs.cache
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.AssemblyInfo.cs
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.dll
+C:\Users\Sam Milward\Documents\Repos\FYP\RabbitMQHelper\obj\Debug\netcoreapp2.2\RabbitMQHelper.pdb
